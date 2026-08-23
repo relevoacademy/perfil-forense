@@ -1,0 +1,10 @@
+# Conflictos de sincronizacion de OneDrive
+*-DESKTOP-*
+*conflicted copy*
+*-PC-*
+# Sistema
+Thumbs.db
+desktop.ini
+.DS_Store
+# Vercel
+.vercel
