@@ -10,7 +10,7 @@
 
 > Taller de Relevo. Diagnóstico de perfil **DISC a partir de evidencia conversacional real** — no de un test de autopercepción. Tres prompts que se corren en una sola conversación.
 
-**[🌐 relevo.academy](https://relevo.academy)** · **[📸 @relevo.academy](https://instagram.com/relevo.academy)** · **[✉️ relevoacademy@gmail.com](mailto:relevoacademy@gmail.com)**
+**[🌐 curso.relevo.academy](https://curso.relevo.academy/)** · **[📸 @relevo.academy](https://instagram.com/relevo.academy)** · **[✉️ relevoacademy@gmail.com](mailto:relevoacademy@gmail.com)**
 
 ---
 
